@@ -1,0 +1,6 @@
+{
+  "name": "cf-ai-standup-benchmarks",
+  "private": true,
+  "type": "module",
+  "description": "Latency benchmarks for the deployed cf_ai_standup Worker — Node built-ins only."
+}

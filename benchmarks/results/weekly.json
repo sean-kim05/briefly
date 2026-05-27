@@ -1,0 +1,19 @@
+{
+  "host": "https://cf-ai-standup.skim8705.workers.dev",
+  "startedAt": "2026-05-27T23:24:36.767Z",
+  "finishedAt": "2026-05-27T23:27:43.620Z",
+  "runs": 15,
+  "standups_per_user": 7,
+  "successful": 15,
+  "errors": [],
+  "stats": {
+    "count": 15,
+    "mean_ms": 4369.52,
+    "p50_ms": 4168.25,
+    "p95_ms": 6619.44,
+    "p99_ms": 6619.44,
+    "min_ms": 2876.49,
+    "max_ms": 6619.44
+  },
+  "cleanup_total_deleted": 105
+}
